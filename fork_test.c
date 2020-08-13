@@ -7,6 +7,7 @@
 
 #include <unistd.h>  
 #include <stdio.h>   
+
 int main ()   
 {   
     pid_t fpid; //fpid表示fork函数返回的值  
